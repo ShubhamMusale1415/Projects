@@ -1,1 +1,14 @@
 this is just simple file used for showing the information respectively. 
+
+if you want to host the streamlit server on the virtual machine rented on the aws.
+
+launch instance: 
+add security group : port:8501 from anywhere. 
+use connect to enter the shell. 
+first clone the folder to the current pwd. and go inside that folder using cd where all the files are located. as according to that make appropriate changes into the app.py and csvfile location may change. as directory changes. so ensure.
+install python,streamlit,numpy,pandas,pip and all. 
+use command: stramlit run app.py 
+copy the external link . 
+and open in any brower respectively. 
+
+

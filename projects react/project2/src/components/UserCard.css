@@ -1,0 +1,8 @@
+.user-container
+{
+    background-color: rgb(104, 126, 126);
+    padding: 20px;
+    border-radius:10px;
+    height: 200px;
+    width: 200px;
+}

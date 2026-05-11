@@ -1,0 +1,8 @@
+body
+{
+  display: flex;
+  height: 100vh;
+  background-color: antiquewhite;
+  align-items: center;
+  justify-content: center;
+}

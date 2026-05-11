@@ -1,0 +1,16 @@
+.container
+{
+    height: 80px;
+    width: 300px;
+     background-color: aquamarine;
+     border-radius: 10px;
+     padding: 10px;
+     border-color: black;
+   
+     
+}
+#btn
+{
+    height: 30px;
+    width: 300px;
+}

@@ -1,0 +1,15 @@
+div ul li 
+{
+    list-style: none;
+    
+}
+div ul 
+{
+    display: flex;
+    column-gap: 70px;
+    text-decoration: none;
+}
+#a,#b,#c
+{
+    text-decoration: none;
+}
